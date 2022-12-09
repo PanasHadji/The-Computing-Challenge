@@ -4,3 +4,4 @@ A project to demonstrate collaboration features of Git and GitHub to CO1111 stud
 The team members are:
 - Panagiotis Hadjidemetriou
 - Stylianos Hadjiconstanitnou
+- Okiemute Blessing Albert-Ikolo
